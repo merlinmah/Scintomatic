@@ -1,7 +1,7 @@
 # Scintomatic
 #### Merlin L. Mah and Mark L. Felice
 
-![Scintomatic at work. (Spectrum data is a test pattern.)](Scintomatic at work.png)
+![Scintomatic at work. (Spectrum data is a test pattern.)](Scintomatic&#32;at&#32;work.png)
 
 Scintomatic is a simple Python application to receive, display, and record the output of the Hidex Triathler 425-034 or PerkinElmer BetaScout liquid scintillation counters. When one of these instruments is set to the "Commfil v.2" communications protocol, it will output via RS-232 connection a count rate vs. time once per second while collecting data, and a spectrum after finishing; Scintomatic plots this information as it is received, and optionally saves it to a tab-separated text file. 
 
